@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#headerpic>img {
+    max-width: 100%;
+    width: auto;
+}
+
+.custom-header {
+    background-color: #264653;
+    color: #FFFFFF;
+    padding: 7% 0%;
+}
+
+.custom-header>img {
+    max-width: 512px;
+    max-height: 447px;
+}
+
+.custom-img-1>img {
+    filter: grayscale(100%);
+}
+
+.custom-star {
+    height: 22px;
+    color: #E77C40;
+}
+
+.custom-Customer-photo>img {
+    height: 150px;
+    width: auto;
+}
+
+#customer3>img {
+    border-radius: 74.5px;
+}
+
+.fututeb img {
+    margin: 10px;
+    padding: 10px;
+}
+
+.fututeb-id {
+    max-width: 100%;
+    width: auto;
+}
+
+.fututeb {
+    margin: 20px;
+    padding: 15px;
+    text-align: justify;
+}
+
+.button1 {
+    background-color: #E76F51;
+}
+
+.orange {
+    color: #E76F51;
+}
